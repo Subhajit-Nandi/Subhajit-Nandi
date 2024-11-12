@@ -6,7 +6,7 @@
 # 👨‍💻 About Me:
 <img align="right" alt="Coding" height="200" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-👾 I’m currently learning **Machine Learning**<br>
+👾 I’m into **Machine Learning** & **Full-Stack**<br>
 
 👨‍💻 All my projects are available at [Subhajit-Nandi/projects](https://github.com/Subhajit-Nandi?tab=repositories)<br>
 
